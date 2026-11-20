@@ -7,20 +7,69 @@
   "icon": "msx-white-soft:movie"
  },
  "items": [
-  {"title": "2M", "action": "video:http://185.9.2.18/chid_218/index.m3u8"},
-  {"title": "2M Monde +1", "action": "video:https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8"},
-  {"title": "2M NATIONAL HD", "action": "video:http://149.100.11.252:8000/play/a064/index.m3u8"},
-  {"title": "Al Aoula Inter HD", "action": "video:http://149.100.11.252:8000/play/a063/index.m3u8"},
-  {"title": "Al Maghribia", "action": "video:http://185.9.2.18/chid_205/index.m3u8"},
-  {"title": "Arryadia", "action": "video:http://149.100.11.252:8000/play/a065/index.m3u8"},
-  {"title": "Assadissa", "action": "video:http://149.100.11.252:8000/play/a068/index.m3u8"},
-  {"title": "Tamazight", "action": "video:http://149.100.11.252:8000/play/a069/index.m3u8"},
-  {"title": "Athaqafia", "action": "video:http://149.100.11.252:8000/play/a066/index.m3u8"},
-  {"title": "Chada TV", "action": "video:https://edge13.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8"},
-  {"title": "MBC 5", "action": "video:https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8"},
-  {"title": "Medi1TV Afrique", "action": "video:https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist.m3u8"},
-  {"title": "Medi1TV Arabic", "action": "video:https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist.m3u8"},
-  {"title": "Medi1TV Maghreb", "action": "video:https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m3u8"},
-  {"title": "StoryChannel TV", "action": "video:https://136044159.r.cdnsun.net/storychannel.m3u8"}
+  {
+   "title": "2M",
+   "action": "video:http://185.9.2.18/chid_218/index.m3u8"
+  },
+  {
+   "title": "2M Monde +1",
+   "action": "video:https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8"
+  },
+  {
+   "title": "2M NATIONAL HD",
+   "action": "video:http://149.100.11.252:8000/play/a064/index.m3u8"
+  },
+  {
+   "title": "Al Aoula Inter HD",
+   "action": "video:http://149.100.11.252:8000/play/a063/index.m3u8"
+  },
+  {
+   "title": "Al Maghribia",
+   "action": "video:http://185.9.2.18/chid_205/index.m3u8"
+  },
+  {
+   "title": "Arryadia",
+   "action": "video:http://149.100.11.252:8000/play/a065/index.m3u8"
+  },
+  {
+   "title": "Arryadia 2",
+   "action": "video:https://ch.iptvmate.net/21ac24ec4245102a26c6a00791819cb5.m3u8"
+  },
+  {
+   "title": "Assadissa",
+   "action": "video:http://149.100.11.252:8000/play/a068/index.m3u8"
+  },
+  {
+   "title": "Tamazight",
+   "action": "video:http://149.100.11.252:8000/play/a069/index.m3u8"
+  },
+  {
+   "title": "Athaqafia",
+   "action": "video:http://149.100.11.252:8000/play/a066/index.m3u8"
+  },
+  {
+   "title": "Chada TV",
+   "action": "video:https://edge13.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8"
+  },
+  {
+   "title": "MBC 5",
+   "action": "video:https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8"
+  },
+  {
+   "title": "Medi1TV Afrique",
+   "action": "video:https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist.m3u8"
+  },
+  {
+   "title": "Medi1TV Arabic",
+   "action": "video:https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist.m3u8"
+  },
+  {
+   "title": "Medi1TV Maghreb",
+   "action": "video:https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m3u8"
+  },
+  {
+   "title": "StoryChannel TV",
+   "action": "video:https://136044159.r.cdnsun.net/storychannel.m3u8"
+  }
  ]
 }
