@@ -1,0 +1,219 @@
+{
+ "type": "list",
+ "headline": "España",
+ "template": {
+  "type": "separate",
+  "layout": "0,0,12,1",
+  "icon": "msx-white-soft:movie"
+ },
+ "items": [
+  {
+   "title": "La 1",
+   "action": "video:https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8"
+  },
+  {
+   "title": "La 2",
+   "action": "video:https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8"
+  },
+  {
+   "title": "El Toro TV",
+   "action": "video:https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8"
+  },
+  {
+   "title": "TRECE",
+   "action": "video:https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8"
+  },
+  {
+   "title": "RNE Accesible",
+   "action": "video:https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8"
+  },
+  {
+   "title": "24h",
+   "action": "video:https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8"
+  },
+  {
+   "title": "3CatInfo",
+   "action": "video:https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8"
+  },
+  {
+   "title": "El País",
+   "action": "video:https://d2epgk1fomaa1g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9n8y4tw0bk3an/live/fast-channel-el-pais/fast-channel-el-pais.m3u8"
+  },
+  {
+   "title": "Negocios TV",
+   "action": "video:https://negociostv-negociostv-samsunges.amagi.tv/hls/amagi_hls_data_negociost-negociostv-samsunges/CDN/playlist.m3u8"
+  },
+  {
+   "title": "Teledeporte",
+   "action": "video:https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8"
+  },
+  {
+   "title": "Real Madrid TV",
+   "action": "video:https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8"
+  },
+  {
+   "title": "Clan",
+   "action": "video:https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8"
+  },
+  {
+   "title": "Conciertos Radio 3",
+   "action": "video:https://rtvelivestream.rtve.es/eventual/gofast/playm11_main.m3u8"
+  },
+  {
+   "title": "Cuéntame",
+   "action": "video:https://rtvelivestream.rtve.es/eventual/gofast/playm7_main.m3u8"
+  },
+  {
+   "title": "La Promesa",
+   "action": "video:https://rtvelivestream.rtve.es/eventual/gofast/playm1_main.m3u8"
+  },
+  {
+   "title": "La Revuelta",
+   "action": "video:https://rtvelivestream.rtve.es/eventual/gofast/playm5_main.m3u8"
+  },
+  {
+   "title": "Somos Cine",
+   "action": "video:https://rtvelivestream.rtve.es/eventual/gofast/playm6_main.m3u8"
+  },
+  {
+   "title": "Cocina (RTVE)",
+   "action": "video:https://rtvelivestream.rtve.es/eventual/gofast/playm20_main.m3u8"
+  },
+  {
+   "title": "Al cielo con ella",
+   "action": "video:https://rtvelivestream.rtve.es/eventual/gofast/playm26_main.m3u8"
+  },
+  {
+   "title": "RTVE 70 años",
+   "action": "video:https://rtvelivestream.rtve.es/eventual/gofast/playm28_main_dvr.m3u8"
+  },
+  {
+   "title": "Canal Parlamento",
+   "action": "video:https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8"
+  },
+  {
+   "title": "Senado",
+   "action": "video:https://senadolive.akamaized.net/hls/live/2006551/punto1/master.m3u8"
+  },
+  {
+   "title": "Canal Sur Andalucía",
+   "action": "video:https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8"
+  },
+  {
+   "title": "Canal Sur 2 Accesible",
+   "action": "video:https://rtva-channel22.flumotion.cloud/playlist.m3u8"
+  },
+  {
+   "title": "Canal Sur Más Noticias",
+   "action": "video:https://rtva-channel42.flumotion.cloud/playlist.m3u8"
+  },
+  {
+   "title": "7TV Andalucía",
+   "action": "video:https://especial7tv.gestec-video.com/hls/regional.m3u8"
+  },
+  {
+   "title": "TV3",
+   "action": "video:https://directes-tv-int-dev.3catdirectes.cat/live-content/tv3-uhd-cmaf/master.m3u8"
+  },
+  {
+   "title": "3Cat Doraemon",
+   "action": "video:https://fast-tailor.3catdirectes.cat/v1/channel/doraemon/hls.m3u8"
+  },
+  {
+   "title": "3Cat Plats bruts",
+   "action": "video:https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8"
+  },
+  {
+   "title": "La 1 Catalunya",
+   "action": "video:https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8"
+  },
+  {
+   "title": "La 2 Cat",
+   "action": "video:https://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main_dvr.m3u8"
+  },
+  {
+   "title": "24h Catalunya",
+   "action": "video:https://rtvelivestream.rtve.es/rtvesec/cat/24h_cat_main_dvr.m3u8"
+  },
+  {
+   "title": "betevé",
+   "action": "video:https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_vfibi2fe/protocol/https/format/applehttp/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0"
+  },
+  {
+   "title": "Nova",
+   "action": "video:http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8"
+  },
+  {
+   "title": "Nova 2",
+   "action": "video:https://livestartover.atresmedia.com/geonova/master.m3u8"
+  },
+  {
+   "title": "Nova 3",
+   "action": "video:https://cdn.opencable.es/hls/live/nova/index.m3u8"
+  },
+  {
+   "title": "Nova 4",
+   "action": "video:https://livepull1.secure.footprint.net/novampp/bitrate_3.m3u8"
+  },
+  {
+   "title": "Ràdio 4",
+   "action": "video:https://rtvelivestream.rtve.es/rtvesec/rne/rne_r4_cam_main_dvr.m3u8"
+  },
+  {
+   "title": "Segunda estrella (RTVE)",
+   "action": "video:https://rtvelivestream.rtve.es/eventual/gofast/playm29_main.m3u8"
+  },
+  {
+   "title": "TV3 CAT",
+   "action": "video:https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8"
+  },
+  {
+   "title": "El Confidencial",
+   "action": "video:https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-bmo0niz694whx.m3u8"
+  },
+  {
+   "title": "TV Canaria (RTVC)",
+   "action": "video:https://d1oyt3v08gcy18.cloudfront.net/index-events.m3u8"
+  },
+  {
+   "title": "Castilla-La Mancha Media (CMM)",
+   "action": "video:https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/a.m3u8"
+  },
+  {
+   "title": "Distrito TV",
+   "action": "video:https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8"
+  },
+  {
+   "title": "Canal 33 Madrid",
+   "action": "video:https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8"
+  },
+  {
+   "title": "TVG",
+   "action": "video:https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8"
+  },
+  {
+   "title": "TVG 2",
+   "action": "video:https://crtvg-tvg2.flumotion.cloud/playlist_dvr.m3u8"
+  },
+  {
+   "title": "ETB 1",
+   "action": "video:https://cdn1.etbon.eus/etb1/index.m3u8"
+  },
+  {
+   "title": "ETB 2",
+   "action": "video:https://cdn1.etbon.eus/etb2/index.m3u8"
+  },
+  {
+   "title": "Canal Extremadura",
+   "action": "video:https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/continuous/9be76611-d2cd-474d-bf19-ef702ba31b02/index.m3u8"
+  },
+  {
+   "title": "TV Canaria Net",
+   "action": "video:https://d2q93scm3qt8zp.cloudfront.net/index-events.m3u8"
+  },
+  {
+   "title": "Congreso de los Diputados",
+   "action": "video:https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8"
+  }
+ ]
+}
